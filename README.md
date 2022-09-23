@@ -2,7 +2,7 @@
 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 - 🏢 UNIFOR - Universidade de Fortaleza
-- ⭕ 3° Semestre
+- ⭕ 4° Semestre
 - 📧 Email: rianfrer@gmail.com
 
 
