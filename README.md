@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Rian Silva
 
-- 📚 Graduado em Análise e Desenvolvimento de Sistemas
+- 📚 Análise e Desenvolvimento de Sistemas
 - 🏢 UNIFOR - Universidade de Fortaleza
-- ⭕ 
 - 📧 Email: rianfrer@gmail.com
 
 
